@@ -113,3 +113,15 @@
 [monorepo 和 library](./monorepo-test)
 
 [etcd 实现注册中心和配置中心](./etcd-test/)
+
+[扫码登录](./qrcode-login)
+
+[手写 WebSocket 协议](./my-websocket/)
+
+[repl 模式](./repl-test)
+
+[graphql 快速入门](./grqphql-crud-demo)
+
+[rabbitmq 快速入门](./rabbitmq-test)
+
+[grpc 跨语言远程方法调用](./grpc-client/)
