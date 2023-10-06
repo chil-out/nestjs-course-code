@@ -127,3 +127,7 @@
 [grpc 跨语言远程方法调用](./grpc-client/)
 
 [Nest + Redis + 地图，实现附近的充电宝](./nearby-search/)
+
+[Prisma 快速入门](./prisma-test/)
+
+[Prisma 全部命令](./prisma-all-command/)
