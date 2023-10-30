@@ -30,6 +30,8 @@
 
 [logger](./logger-test)
 
+[winston 入门](./winston-test)
+
 [内置的 pipe](./pipe-test)
 
 [自定义 Exception Filter](./exception-filter-test)
@@ -133,3 +135,12 @@
 [Prisma 快速入门](./prisma-test/)
 
 [Prisma 全部命令](./prisma-all-command/)
+
+[Prisma 全部 schema 语法](./prisma-schema/)
+
+[Prisma Client 单表 CRUD 的全部 api](./prisma-client-api/)
+
+[Prisma Client 多表 CRUD 的全部 api](./prisma-client-api2/)
+
+[Nest 集成 Prisma](./nest-prisma-test/)
+
